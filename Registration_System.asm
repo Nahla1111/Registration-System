@@ -92,7 +92,8 @@ TooLong:    LEA DX,LONG_PASS
 
 DEFINE_SCAN_NUM
 DEFINE_GET_STRING
-Terminate:        
+Terminate: 
+.exit
 END MAIN     
 
 
